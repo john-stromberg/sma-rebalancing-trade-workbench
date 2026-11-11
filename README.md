@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [portfolio-analytics/projects/sma-rebalancing-trade-workbench](https://github.com/john-stromberg/portfolio-analytics/tree/main/projects/sma-rebalancing-trade-workbench).
+> This repository is retained as a historical snapshot.
+
+---
+
 # sma-rebalancing-trade-workbench
 
 Track: **SMA Portfolio Management**
